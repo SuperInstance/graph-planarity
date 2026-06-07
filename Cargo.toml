@@ -1,0 +1,11 @@
+[package]
+name = "graph-planarity"
+version = "0.1.0"
+edition = "2021"
+description = "Planarity testing, Kuratowski subgraph detection, planar embedding, dual graphs, Euler's formula"
+license = "MIT"
+repository = "https://github.com/SuperInstance/graph-planarity"
+keywords = ["graph", "planarity", "embedding", "kuratowski", "algorithms"]
+categories = ["algorithms", "mathematics", "science"]
+
+[dependencies]
